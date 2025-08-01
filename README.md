@@ -1,4 +1,4 @@
-# Weather App CLI
+# My Project
 
 A simple command-line tool to check weather using the wttr.in API.
 
